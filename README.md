@@ -1,5 +1,5 @@
-# Gigi
-
+# Git-Integrated Interactive Generative Interface
+ 
 ## Description
 Gigi is a smart coding assistant that runs right inside your terminal. It acts like a helper who sits next to you while you code, helping you understand, write, edit, and review your files. Under the hood, it is built with Rust, making it super fast, lightweight, and easy to run anywhere. It connects to powerful AI brains (both in the cloud and running locally on your own computer) and runs a loop where it can think, execute commands, read files, and search information to solve coding tasks for you.
 
